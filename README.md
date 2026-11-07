@@ -11,7 +11,6 @@ I build and own [LaLaBix](https://lalabix.com), a marketplace running on Google 
 **Stack:** TypeScript, React, Angular, Next.js, Node.js, Flutter, Google Cloud, Elasticsearch, LLM APIs (OpenAI, Claude, Gemini)
 
 ## Selected work
-- [group-enquiry-desk](https://github.com/mralik/group-enquiry-desk): WordPress plugin (PHP) with a secure multi-brand enquiry form, admin view and REST endpoint
 - [LaLaBix case study](https://thealik.com/work/lalabix/): multi-vendor marketplace on iOS, Android and web
 - [MiTi Bakery case study](https://thealik.com/work/miti-bakery/): online menu with one-tap WhatsApp ordering
 
