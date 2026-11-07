@@ -14,6 +14,6 @@ I build and own [LaLaBix](https://lalabix.com), a marketplace running on Google 
 - [LaLaBix case study](https://thealik.com/work/lalabix/): multi-vendor marketplace on iOS, Android and web
 - [MiTi Bakery case study](https://thealik.com/work/miti-bakery/): online menu with one-tap WhatsApp ordering
 
-**Open to:** Senior Engineer and Tech Lead roles, Solution Architect and Forward Deployed Engineer roles, and remote contract or part-time work (UAE/GCC, remote worldwide, or UK/EU with sponsorship)
+**Open to:** Senior Engineer and Tech Lead roles, Solution Architect and Forward Deployed Engineer roles, and remote contract or part-time work
 
 [thealik.com](https://thealik.com) · [LinkedIn](https://www.linkedin.com/in/thealik)
