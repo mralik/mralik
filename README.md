@@ -1,8 +1,8 @@
 # Ali Kalantari
 
-**Senior Software Engineer & Tech Lead · Dubai · 11+ yrs shipping customer-facing platforms**
+**Senior Software Engineer · Tech Lead · Solution Architect · Dubai**
 
-I build and own [LaLaBix](https://lalabix.com), a marketplace running on Google Cloud that serves 10,000+ customers and 300+ vendors. I'm hands-on: React/TypeScript interfaces, Node backends, and turning messy requirements into clear specs with testable acceptance criteria.
+11+ years shipping customer-facing platforms. I'm the Tech Lead and Solution Architect at [LaLaBix](https://lalabix.com), a marketplace running on Google Cloud that serves 10,000+ customers and 300+ vendors. I'm hands-on: React/TypeScript interfaces, Node backends, and turning messy requirements into clear specs with testable acceptance criteria.
 
 - 35% more monthly orders at 99.9% uptime
 - 25% better search-to-purchase conversion (Elasticsearch)
@@ -16,4 +16,4 @@ I build and own [LaLaBix](https://lalabix.com), a marketplace running on Google 
 
 **Open to:** Senior Engineer and Tech Lead roles, Solution Architect and Forward Deployed Engineer roles, and remote contract or part-time work
 
-[thealik.com](https://thealik.com) · [LinkedIn](https://www.linkedin.com/in/thealik)
+[thealik.com](https://thealik.com) · [LinkedIn](https://www.linkedin.com/in/thealik) · ali@thealik.com
