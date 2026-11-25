@@ -12,6 +12,7 @@
 
 ## Selected work
 - [LaLaBix case study](https://thealik.com/work/lalabix/): multi-vendor marketplace on iOS, Android and web
+- [Dubai Sold Prices](https://dubai.thealik.com): ask what Dubai homes sold for in plain English, from 150,000+ Dubai Land Department sales. The AI only fills a checked query plan and never writes SQL ([code](https://github.com/mralik/dubai-sold-prices) · [case study](https://thealik.com/work/dubai-sold-prices/))
 - [MiTi Bakery case study](https://thealik.com/work/miti-bakery/): online menu with one-tap WhatsApp ordering
 
 **Open to:** Senior Engineer and Tech Lead roles, Solution Architect and Forward Deployed Engineer roles, and remote contract or part-time work
